@@ -1,1 +1,1 @@
-# QuickSortScenarioImplementation
+# Quick Sort Scenario Implementation JAVA
